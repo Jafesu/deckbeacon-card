@@ -32,4 +32,4 @@ strategy:
 ## Install
 Marketplace → **Add from link** → `https://github.com/Jafesu/deckbeacon-card` (type: Dashboard). The resource is registered automatically.
 
-> **Pre-release.** Generated from the [DeckBeacon monorepo](https://github.com/Jafesu/DeckBeacon); issues and docs live there. Version 0.1.0, monorepo commit `0af6378`.
+> **Pre-release.** Generated from the [DeckBeacon monorepo](https://github.com/Jafesu/DeckBeacon); issues and docs live there. Version 0.2.0, monorepo commit `2fdbb4d`.
